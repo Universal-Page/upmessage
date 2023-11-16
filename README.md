@@ -1,6 +1,13 @@
 # UPMessage
 
-A chat message app for Lukso profiles with full end-to-end encryption.
+| Name | Description |
+| ---- | ----------- |
+| Project | UPMessage |
+| Description | A chat message app for Lukso profiles with full end-to-end encryption. |
+| Team | Jake Prins, Volodymyr Lykhonis |
+| Contact | info@universal.page |
+| App | [upmessage.xyz](https://upmessage.xyz) |
+| Demo | [Walkthrough video](https://youtu.be/[INSERT-LINK-HERE]) |
 
 <img alt="UpMessage" src="./assets/img/up-message.png" style="border-radius:6px" />
 
