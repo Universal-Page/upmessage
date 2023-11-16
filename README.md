@@ -2,6 +2,8 @@
 
 A chat message app for Lukso profiles with full end-to-end encryption.
 
+<img alt="UpMessage" src="./assets/img/up-message.png" style="border-radius:6px" />
+
 This app allows Lukso users to securely communicate with each other through a chat interface. All messages are encrypted using end-to-end encryption, which means that only the sender and recipient can read the messages.
 
 To use the app, users must first create a Lukso profile and log in. Once logged in, they can search for other Lukso users and start a chat with them.
