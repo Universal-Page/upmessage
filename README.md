@@ -7,14 +7,14 @@
 | Team | Jake Prins, Volodymyr Lykhonis |
 | Contact | info@universal.page |
 | App | [upmessage.xyz](https://upmessage.xyz) |
-| Demo | [Walkthrough video](https://youtu.be/[INSERT-LINK-HERE]) |
+| Demo | [Walkthrough video](https://youtu.be/0umI16BH4L0) |
 
 <img alt="UpMessage" src="./assets/img/up-message.png" style="border-radius:6px" />
 
-This app allows Lukso users to securely communicate with each other through a chat interface. All messages are encrypted using end-to-end encryption, which means that only the sender and recipient can read the messages.
+UPMessage provides Universal Profiles on LUKSO with a secure and private communication platform through a chat interface. All messages exchanged are encrypted using end-to-end encryption, ensuring that only the sender and receiver can read them. 
 
-To use the app, users must first create a Lukso profile and log in. Once logged in, they can search for other Lukso users and start a chat with them.
+Users must first create a Universal Profile and sign in to use the app. Once signed in, users can search for other UPs on LUKSO and initiate a chat with them. The app utilizes the Signal-inspired protocol for end-to-end encryption, which is widely used and trusted.
 
-The app uses the Signal inspired protocol for end-to-end encryption, which is a widely-used and trusted encryption protocol. The app also uses strong authentication mechanisms to ensure that only authorized users can access the app.
+Additionally, the app features robust authentication mechanisms to ensure that only authorized users can access it. It is designed for LUKSO users who prioritize privacy and security in their communication. 
 
-This app is intended for use by Lukso users who value privacy and security in their communications.
+On-chain interactions will be integrated into the chat interface with additional features added gradually. 
