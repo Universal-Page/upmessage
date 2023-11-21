@@ -3,7 +3,7 @@
 | Name | Description |
 | ---- | ----------- |
 | Project | UPMessage |
-| Description | A chat message app for Lukso profiles with full end-to-end encryption. |
+| Description | A chat message app for Universal Profiles on LUKSO with full end-to-end encryption. |
 | Team | Jake Prins, Volodymyr Lykhonis |
 | Contact | info@universal.page |
 | App | [upmessage.xyz](https://upmessage.xyz) |
