@@ -7,7 +7,7 @@
 | Team | Jake Prins, Volodymyr Lykhonis |
 | Contact | info@universal.page |
 | App | [upmessage.xyz](https://upmessage.xyz) |
-| Source | https://github.com/Universal-Page/chat |
+| Source | [browse here](https://github.com/Universal-Page/chat) |
 | Demo | [Walkthrough video](https://youtu.be/0umI16BH4L0) |
 
 <img alt="UpMessage" src="./assets/img/up-message.png" style="border-radius:6px" />
